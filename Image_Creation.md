@@ -1,4 +1,4 @@
-##Image Creation
+## Image Creation
 
 An image in computer graphics requires a surface with two dimensions, which acts as a projection screen. Any image, in 3D, is viewed in 2D on the computer screen or on paper or canvas.
 Visualization is like a pyramid whose apex is the point of vision of our eyes and which extends along the line parallel to the gaze in both height|width or x|y axes.
